@@ -1,6 +1,6 @@
 https://www.cpcjudge.com/problem/minionslapelicula
 
-# A. Minions, la película
+# A. Ema, la película
 #### Autor: wisperfrog
 
 ## Descripción
