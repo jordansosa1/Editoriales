@@ -205,9 +205,3 @@ int main() {
     return 0;
 }
 ```
-
-## Casos límite
-
-- Si $r=0$, se imprime `Pez`, debido a que la condición utilizada es $r\geq0$.
-- Si todos los valores son negativos o positivos, el algoritmo continúa funcionando directamente mediante la misma suma ponderada.
-- Los valores con decimales se manejan mediante `double`.
